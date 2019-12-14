@@ -1,0 +1,46 @@
+08/19/2019 08:21:24 Task cola
+08/19/2019 08:21:24 data/canonical_data\bert_uncased\cola_train.json
+08/19/2019 08:21:25 data/canonical_data\bert_uncased\cola_dev.json
+08/19/2019 08:21:26 data/canonical_data\bert_uncased\cola_test.json
+08/19/2019 08:21:26 Task mnli
+08/19/2019 08:21:27 data/canonical_data\bert_uncased\mnli_train.json
+08/19/2019 08:24:16 data/canonical_data\bert_uncased\mnli_matched_dev.json
+08/19/2019 08:24:20 data/canonical_data\bert_uncased\mnli_mismatched_dev.json
+08/19/2019 08:24:24 data/canonical_data\bert_uncased\mnli_matched_test.json
+08/19/2019 08:24:28 data/canonical_data\bert_uncased\mnli_mismatched_test.json
+08/19/2019 08:24:33 Task mrpc
+08/19/2019 08:24:33 data/canonical_data\bert_uncased\mrpc_train.json
+08/19/2019 08:24:35 data/canonical_data\bert_uncased\mrpc_dev.json
+08/19/2019 08:24:35 data/canonical_data\bert_uncased\mrpc_test.json
+08/19/2019 08:24:36 Task qnli
+08/19/2019 08:24:37 data/canonical_data\bert_uncased\qnli_train.json
+08/19/2019 08:25:35 data/canonical_data\bert_uncased\qnli_dev.json
+08/19/2019 08:25:38 data/canonical_data\bert_uncased\qnli_test.json
+08/19/2019 08:25:41 Task qqp
+08/19/2019 08:25:42 data/canonical_data\bert_uncased\qqp_train.json
+08/19/2019 08:27:36 data/canonical_data\bert_uncased\qqp_dev.json
+08/19/2019 08:27:49 data/canonical_data\bert_uncased\qqp_test.json
+08/19/2019 08:29:56 Task rte
+08/19/2019 08:29:56 data/canonical_data\bert_uncased\rte_train.json
+08/19/2019 08:29:58 data/canonical_data\bert_uncased\rte_dev.json
+08/19/2019 08:29:58 data/canonical_data\bert_uncased\rte_test.json
+08/19/2019 08:30:00 Task scitail
+08/19/2019 08:30:01 data/canonical_data\bert_uncased\scitail_train.json
+08/19/2019 08:30:11 data/canonical_data\bert_uncased\scitail_dev.json
+08/19/2019 08:30:12 data/canonical_data\bert_uncased\scitail_test.json
+08/19/2019 08:30:13 Task snli
+08/19/2019 08:30:14 data/canonical_data\bert_uncased\snli_train.json
+08/19/2019 08:32:42 data/canonical_data\bert_uncased\snli_dev.json
+08/19/2019 08:32:45 data/canonical_data\bert_uncased\snli_test.json
+08/19/2019 08:32:48 Task sst
+08/19/2019 08:32:48 data/canonical_data\bert_uncased\sst_train.json
+08/19/2019 08:32:57 data/canonical_data\bert_uncased\sst_dev.json
+08/19/2019 08:32:57 data/canonical_data\bert_uncased\sst_test.json
+08/19/2019 08:32:58 Task stsb
+08/19/2019 08:32:58 data/canonical_data\bert_uncased\stsb_train.json
+08/19/2019 08:33:00 data/canonical_data\bert_uncased\stsb_dev.json
+08/19/2019 08:33:00 data/canonical_data\bert_uncased\stsb_test.json
+08/19/2019 08:33:01 Task wnli
+08/19/2019 08:33:01 data/canonical_data\bert_uncased\wnli_train.json
+08/19/2019 08:33:01 data/canonical_data\bert_uncased\wnli_dev.json
+08/19/2019 08:33:01 data/canonical_data\bert_uncased\wnli_test.json
