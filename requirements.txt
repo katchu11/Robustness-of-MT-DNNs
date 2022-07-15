@@ -36,7 +36,7 @@ dataclasses==0.6
 decorator==4.3.0
 defusedxml==0.6.0
 dill==0.2.9
-distributed==1.21.8
+distributed==2021.10.0
 docker==3.7.2
 docker-compose==1.24.0
 docker-pycreds==0.4.0
